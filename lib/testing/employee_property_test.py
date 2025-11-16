@@ -1,6 +1,7 @@
+# lib/testing/employee_property_test.py
 from models.department import Department
 from models.employee import Employee
-import pytest
+import pytest # type: ignore
 
 
 class TestEmployeeProperties:

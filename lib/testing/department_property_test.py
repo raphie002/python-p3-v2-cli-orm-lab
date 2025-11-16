@@ -1,5 +1,6 @@
+# lib/testing/department_property_test.py
 from models.department import Department
-import pytest
+import pytest # type: ignore
 
 
 
